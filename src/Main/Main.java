@@ -77,7 +77,7 @@ public class Main {
 
                 case 3:
                     try {
-                        System.out.println("Ingrese el indice del registro a buscar");
+                        System.out.println("Ingrese el indice del registro que desea buscar");
                         indice = lectura.nextInt();
                         lectura.nextLine();
 
