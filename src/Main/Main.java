@@ -27,7 +27,7 @@ public class Main {
             System.out.println("3.-Buscar");
             System.out.println("4.-Editar");
             System.out.println("5.-Eliminar");
-            System.out.println("6.-Buscar por titulo");
+            System.out.println("6.-Buscar por titulo de libro ");
             System.out.println("7.-Buscar por autor");
             System.out.println("8.-Editar buscando por titulo(precio)");
             System.out.println("9.-Eliminar por titulo");
